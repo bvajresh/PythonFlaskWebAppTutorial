@@ -1,5 +1,5 @@
 # PythonFlaskWebAppTutorial
-This repository contains the code I have written while following Corey Schafer's tutorial on Youtube. 
+This repository contains the code I have written while following Corey Schafer's tutorial on Youtube. Credit goes to *Corey Schafer*
 
 
 ## Link to Youtube Tutorial
